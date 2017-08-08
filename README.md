@@ -3,8 +3,11 @@
 [Requirements]
 
 Work when there is only:
+
 1x wifi adapter
+
 1x lan adapter
+
 1x vpn connection
 
 [Description]
