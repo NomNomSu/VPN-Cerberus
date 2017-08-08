@@ -1,6 +1,7 @@
 # VPN-Cerberus
 
 [Requirements]
+
 Work when there is only:
 1x wifi adapter
 1x lan adapter
